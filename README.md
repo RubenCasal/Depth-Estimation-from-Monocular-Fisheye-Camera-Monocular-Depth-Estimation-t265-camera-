@@ -115,10 +115,13 @@ ros2 run depth_estimation_dac depth_node.py
 ros2 launch depth_estimation_dac depth_launch.py
 ```
 
+## Depth Mapping
+
 <div align="center">
 <img src="./readme_media/depth_estimation.png" alt="Depth estimation 2D representation" width="600">
 </div>
 
+## Cloud of Points
 <div align="center">
 <img src="./readme_media/cloud_points.gif" alt="Cloud of Points" width="600">
 </div>
